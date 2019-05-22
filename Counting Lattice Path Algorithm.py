@@ -2,7 +2,9 @@
 """
 Created on Wed Jun 13 19:23:14 2018
 
-@author: Owner
+@author: Keegan Dasilva Barbosa
+
+Project Euler Problem 15
 """
 def lattice_paths_of_n(n,m):
     list2 = []
