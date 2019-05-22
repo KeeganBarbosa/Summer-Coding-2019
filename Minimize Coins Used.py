@@ -2,7 +2,7 @@
 """
 Created on Fri May 10 16:56:40 2019
 
-@author: Owner
+@author: Keegan Dasilva Barbosa
 """
 
 def recDC(coinValueList,change,knownResults):
